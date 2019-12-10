@@ -58,6 +58,9 @@ target/
 
 # Virtualenv
 virtualenv/
+venv/
 
 # debug database
 debug.db
+
+.idea/
